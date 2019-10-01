@@ -1,1 +1,1 @@
-pastries = {"donuts":5, "muffins
+pastries = {"donuts":5, "muffins"
