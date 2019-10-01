@@ -1,1 +1,1 @@
-pastr
+pastri
